@@ -254,7 +254,7 @@ body {
 .banner {
     width: 100%;
     height: auto;
-    background-image: url('../img/bg.jpg');
+    background-image: url('../img/bg.webp');
     background-position: center;
     background-size: cover;
     margin-top: 70px;
